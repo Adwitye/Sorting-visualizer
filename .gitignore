@@ -1,0 +1,7 @@
+#ignoring the __pycache__ folder
+__pycache__/
+#ignore imgs
+imgs/
+#ignoring the pdf and ppt
+sortingvisual.pptx/
+sortingvisuals.pdf/
