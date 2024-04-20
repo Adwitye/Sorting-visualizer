@@ -3,5 +3,5 @@ __pycache__/
 #ignore imgs
 imgs/
 #ignoring the pdf and ppt
-sortingvisual.pptx/
-sortingvisuals.pdf/
+.pptx
+.pdf
